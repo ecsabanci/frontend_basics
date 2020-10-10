@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(174, 204, 209);
+}
+
+header {
+    text-align: center;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table {
+    text-align: center;
+    margin: 20px auto;
+    color: rgb(4, 5, 37);
+    
+  }
+  
+  td {
+    border: 4px solid #4dc76b;
+    width: 300px;
+    font-family: cursive;
+  }
+  
+#baslik {
+    font-family: cursive;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+dt {
+    text-align: left;
+}
+
+mark {
+    color: black;
+    background-color: blanchedalmond;
+}
+
+#format, #quote, #others {
+    text-align: center;
+    vertical-align: top;
+    
+}
